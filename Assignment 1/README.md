@@ -7,7 +7,7 @@
 - Task1.java is a simple calculator program that accepts user input for two integer numbers and an arithmetic operator.
 - It performs the arithmetic operation based on the inputted operator and prints the result.
 
-## Output: 
+## Output (Example of user input): 
 
 <p align="center">
 <img width="300" src="https://github.com/matthewantonis-georgiancollege/Java_COMP2003/assets/122380719/dcf1831f-65a9-4786-9f0f-9c1cc53aad3c">
