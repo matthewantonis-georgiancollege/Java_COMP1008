@@ -10,7 +10,7 @@
 ## Output: 
 
 <p align="center">
-<img width="500" src="https://github.com/matthewantonis-georgiancollege/Java_COMP2003/assets/122380719/dcf1831f-65a9-4786-9f0f-9c1cc53aad3c">
+<img width="300" src="https://github.com/matthewantonis-georgiancollege/Java_COMP2003/assets/122380719/dcf1831f-65a9-4786-9f0f-9c1cc53aad3c">
 <p/> 
 
 ### "House.java":
