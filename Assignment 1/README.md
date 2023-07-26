@@ -27,7 +27,7 @@
 ### Output: 
 
 <p align="center">
-<img width="500" src="https://github.com/matthewantonis-georgiancollege/Java_COMP2003/assets/122380719/ac281161-7e7e-43ba-a0b0-f8a42c3d8223">
+<img width="400" src="https://github.com/matthewantonis-georgiancollege/Java_COMP2003/assets/122380719/ac281161-7e7e-43ba-a0b0-f8a42c3d8223">
 <p/> 
 
 ## How to Run
