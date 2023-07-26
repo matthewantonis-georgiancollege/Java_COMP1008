@@ -35,7 +35,7 @@
 ## Output: 
 
 <p align="center">
-<img width="300" src="https://github.com/matthewantonis-georgiancollege/Java_COMP2003/assets/122380719/8e2569dc-7b8e-41a5-9682-41ed7d073ea9">
+<img width="500" src="https://github.com/matthewantonis-georgiancollege/Java_COMP2003/assets/122380719/8e2569dc-7b8e-41a5-9682-41ed7d073ea9">
 <p/> 
 
 ### Notes: 
