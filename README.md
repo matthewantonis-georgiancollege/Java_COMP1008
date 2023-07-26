@@ -1,4 +1,4 @@
-# Java_COMP2003
+# Java_COMP1008
 
 This is a directory of all my completed works from my Java course at Georgian College.
 
