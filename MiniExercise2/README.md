@@ -22,7 +22,7 @@
 - The class has a default constructor and other constructors that accept different parameters.
 - The class also contains getters and setters for the instance variables and an overridden isEcoFriendly method that includes conditions specific to a truck.
 
-### "Truck.java":
+### "Runner.java":
 - This file contains the Runner class with the main method for testing the Vehicle and Truck classes.
 - The program creates instances of both Vehicle and Truck classes, tests the isEcoFriendly method for these instances, and prints out their string representations.
 - It also demonstrates the modification of instance variables.
