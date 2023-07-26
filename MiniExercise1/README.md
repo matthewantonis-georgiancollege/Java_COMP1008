@@ -25,12 +25,11 @@
   - If the response is wrong, it will tell the user they were incorrect and what the correct answer is.
   - If the response is correct, it will tell the user they were correct. 
 - Finally, the program summarizes their performance (number of correct answers and percentage score).
+- The process will then finish and exit.
 
 <p align="center">
 <img width="300" src="https://github.com/matthewantonis-georgiancollege/Java_COMP2003/assets/122380719/86df1223-742f-40cb-9264-d389e1ae582a">
-<p/>
-
-- The process will then finish and exit. 
+<p/> 
 
 ### Notes: 
 - Created in IntelliJ IDEA (ver. 2023.1.1)
