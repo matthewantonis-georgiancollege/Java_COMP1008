@@ -5,12 +5,12 @@
 - The FXML file is to have the following design (excluding rounded borders).
 - You may choose any layout desired. 
 
-### Template to Copy From
+### Template to Copy From:
 <p align="center">
 <img width="300" src="https://github.com/matthewantonis-georgiancollege/Java_COMP1008/assets/122380719/61832310-4906-4695-a42d-20c4cbc70b53">
 <p/>
 
-### My Final Design
+### My Final Design:
 <p align="center">
 <img width="300" src="https://github.com/matthewantonis-georgiancollege/Java_COMP1008/assets/122380719/c55487eb-cff4-4d76-b8a4-d4492555d2c0">
 <p/>
