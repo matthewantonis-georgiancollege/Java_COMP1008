@@ -7,12 +7,12 @@
 
 ### Template to Copy From
 <p align="center">
-<img width="600" src="https://github.com/matthewantonis-georgiancollege/Java_COMP1008/assets/122380719/660fe50a-1a90-4eef-a5ff-d524f42794dd">
+<img width="300" src="https://github.com/matthewantonis-georgiancollege/Java_COMP1008/assets/122380719/660fe50a-1a90-4eef-a5ff-d524f42794dd">
 <p/>
 
 ### My Final Design
 <p align="center">
-<img width="600" src="https://github.com/matthewantonis-georgiancollege/Java_COMP1008/assets/122380719/c55487eb-cff4-4d76-b8a4-d4492555d2c0">
+<img width="300" src="https://github.com/matthewantonis-georgiancollege/Java_COMP1008/assets/122380719/c55487eb-cff4-4d76-b8a4-d4492555d2c0">
 <p/>
 
 ## How to Run
