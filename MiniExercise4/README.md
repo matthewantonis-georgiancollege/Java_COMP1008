@@ -7,7 +7,7 @@
 
 ### Template to Copy From
 <p align="center">
-<img width="300" src="https://github.com/matthewantonis-georgiancollege/Java_COMP1008/assets/122380719/660fe50a-1a90-4eef-a5ff-d524f42794dd">
+<img width="300" src="https://github.com/matthewantonis-georgiancollege/Java_COMP1008/assets/122380719/61832310-4906-4695-a42d-20c4cbc70b53">
 <p/>
 
 ### My Final Design
