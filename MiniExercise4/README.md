@@ -1,6 +1,6 @@
 # Mini Exercise 4: 
 
-## Contents: 
+## Instructions: 
 - Create an FXML named Calculator 
 - The FXML file is to have the following design (excluding rounded borders).
   - Did rounded borders anyways
