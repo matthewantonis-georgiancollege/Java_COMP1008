@@ -15,7 +15,7 @@
 <img width="300" src="https://github.com/matthewantonis-georgiancollege/Java_COMP1008/assets/122380719/c55487eb-cff4-4d76-b8a4-d4492555d2c0">
 <p/>
 
-## How to Run
+## How to Run:
 - Open in Scene Builder
 
 ### Notes: 
