@@ -1,8 +1,9 @@
 # Mini Exercise 4: 
 
 ## Contents: 
-- Create an FXML named Calculator (1 mark deduction if not).
+- Create an FXML named Calculator 
 - The FXML file is to have the following design (excluding rounded borders).
+  - Did rounded borders anyways
 - You may choose any layout desired. 
 
 ### Template to Copy From:
