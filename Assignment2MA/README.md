@@ -1,5 +1,9 @@
 # Assignment 2: 
 
+Message to Prof: 
+- Added Junit Library because it wasn't in my original upload.
+- No code has changed for 3 weeks as you see.
+
 ## Contents: 
 - This repository contains a simple Java project which simulates a basic bank account management system. It includes two main classes, Account.java and Bank.java, and is tested with a Testings.Java.
 
